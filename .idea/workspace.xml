@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da3ce897-f1e4-41ac-a2c0-cd70eae75470" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Applications/API/GitHubApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Applications/UI/GitHubUiApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Applications/UI/PageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Data/RepoGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Libraries/Helpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Tests/TestsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="da3ce897-f1e4-41ac-a2c0-cd70eae75470" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
